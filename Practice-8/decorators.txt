@@ -1,0 +1,9 @@
+111,Anamika decorators,30,200000
+222,Shree designs,45,300000
+333,saidatta arts,50,400000
+112,Anu decorators,30,100000
+212,Shertree designs,35,500000
+313,datta arts,50,400000
+121,Raj decorators,30,200000
+232,Shreyas designs,45,300000
+353,sai,50,400000

@@ -1,0 +1,3 @@
+Anubhav|20000
+Rajat|30000
+Neha|50000
